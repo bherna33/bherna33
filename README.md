@@ -1,7 +1,7 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
-<h1 align="center">Hi 👋, I'm Branden Hernandez</h1>
+<h1 align="center">I'm Branden Hernandez</h1>
 <h3 align="center">Love Learning Code</h3>
-<img align="right" alt="Coding" width = "400" src="https://iota.pgncom.co.id/assets/img/iot10.gif">
+<img align="right" alt="Coding" height = "300" width = "400" src="https://chools.in/wp-content/uploads/6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bherna33&label=Profile%20views&color=0e75b6&style=flat" alt="bherna33" /> </p>
 
