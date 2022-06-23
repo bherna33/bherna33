@@ -1,5 +1,4 @@
-![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
-<h1 align="center">I'm Branden Hernandez</h1>
+<h1 align="center">Welcome to my profile</h1>
 <h3 align="center">Love Learning Code</h3>
 <img align="right" alt="Coding" height = "300" width = "400" src="https://chools.in/wp-content/uploads/6.gif">
 
