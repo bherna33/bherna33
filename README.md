@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 📫 How to reach me **brandenjh98@gmail.com**
+- 📫 How to reach me **brandenjhernandez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
