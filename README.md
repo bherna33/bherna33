@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **brandenjhernandez@gmail.com**
 
-- 🌐 My Website branden-hernandez.com**
+- 🌐 My Website **branden-hernandez.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
