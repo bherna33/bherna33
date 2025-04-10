@@ -1,4 +1,13 @@
-<h1 align="center" > Welcome to my profile <h1>
+
+<h1 style="text-align:center;">Welcome to my profile</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 ## 📫 Connect With Me
 
@@ -51,18 +60,13 @@
 `Datadog` `AWS CloudWatch` `PagerDuty` `ServiceNow`
 
 
-## 📘 Writing
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=branden-hernandez&theme=default" alt="Layout with last medium posts"  />
+## Highlighted Projects
+<div display="grid">
+    <a style=" grid-row:1; padding-right:10px " href="https://github.com/Bherna33/flavaquest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
+    </a>
+    <a style=" grid-row:1; "  href="https://github.com/Bherna33/My-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=My-Portfolio&theme=tokyonight" />
+    </a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
-</picture>
-
-###
