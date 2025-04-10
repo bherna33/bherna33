@@ -1,31 +1,68 @@
-<h1 align="center">Welcome to my profile</h1>
-<h3 align="center">Love Learning Code</h3>
-<img align="right" alt="Coding" height = "300" width = "400" src="https://chools.in/wp-content/uploads/6.gif">
+<h1 align="center" > Welcome to my profile <h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bherna33&label=Profile%20views&color=0e75b6&style=flat" alt="bherna33" /> </p>
+## 📫 Connect With Me
 
-<p align="left"> <a href="https://twitter.com/_betacode" target="blank"><img src="https://img.shields.io/twitter/follow/_betacode?logo=twitter&style=for-the-badge" alt="_betacode" /></a> </p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/branden-hernandez-688365165)
+- 💻 [GitHub](https://github.com/Bherna33)
+- ✉️ [Email](mailto:Brandenjhernandez@gmail.com)
 
-- 🔭 I’m currently working on **Resume Builder**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 📫 How to reach me **brandenjhernandez@gmail.com**
+## 🧰 Tech Stack
 
-- 🌐 My Website **branden-hernandez.com**
+### **Languages:**  
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_betacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_betacode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/branden-hernandez-688365165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="branden-hernandez-688365165/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/branden-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="branden-hernandez" height="30" width="40" /></a>
-<a href="https://instagram.com/betacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="betacode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bherna33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bherna33" height="30" width="40" /></a>
-</p>
+### **Cloud & DevOps:**  
+<div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Frontend & Mobile:**  
+`React` `React Native` `Expo` `Tailwind / NativeWind` `Bootstrap`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bherna33&show_icons=true&locale=en&layout=compact" alt="bherna33" /></p>
+**Backend & APIs:**  
+`Flask` `REST APIs`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bherna33&show_icons=true&locale=en" alt="bherna33" /></p>
+**Databases:**  
+`MySQL` `SQL` `MongoDB`
+
+**Monitoring & Incident Response:**  
+`Datadog` `AWS CloudWatch` `PagerDuty` `ServiceNow`
+
+
+## 📘 Writing
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=branden-hernandez&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
+</picture>
+
+###
