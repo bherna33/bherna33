@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center;">Welcome to my profile</h1>
+<h1 align="center">Welcome to my profile</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph-dark.svg">
