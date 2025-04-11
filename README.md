@@ -43,10 +43,10 @@
 
 ## Highlighted Projects
 <div flex-direction="row" justify-content="space-evenly" align="center" >
-  <a text-decoration="none" href="https://github.com/Bherna33/flavaquest">
+  <a style="text-decoration: none;" href="https://github.com/Bherna33/flavaquest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
     </a>
-  <a text-decoration="none" href="https://github.com/Bherna33/My-Portfolio">
+  <a style="text-decoration: none;" href="https://github.com/Bherna33/My-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=My-Portfolio&theme=tokyonight" />
     </a>
 </div>
