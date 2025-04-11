@@ -1,13 +1,4 @@
-<div align=center>
-    <img source="./assets/welcome.svg" alt="fading text"/>
-</div>
-
-<div align="center">
-<svg width="400" height="60" align-items="center">
-        <text x="40" y="40" font-size="32" fill="#2ecc71">
-            <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />Welcome to my profile</text>
-    </svg>
-</div>
+<h1 align="center"> Welcome to my profile</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph-dark.svg">
@@ -50,6 +41,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=My-Portfolio&theme=tokyonight" />
     </a>
 </div>
-
-
 
