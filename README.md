@@ -8,13 +8,11 @@
 
 ## 🌐 Find Me Around the Web
 
-<p>
 <a href="https://dev.to/branden-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="branden-hernandez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/branden-hernandez-688365165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="branden-hernandez-688365165" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14941999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14941999" height="30" width="40" /></a>
 <a href="https://medium.com/@branden-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@branden-hernandez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bherna33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bherna33" height="30" width="40" /></a>
-</p>
 
 
 ## 💻 Tech Stack:
@@ -48,10 +46,21 @@
 - [Why Everyone Wants to Sell You a Shovel in the Digital Gold Rush](https://medium.com/@branden-hernandez/why-everyone-wants-to-sell-you-a-shovel-in-the-digital-gold-rush-fc6bccfd593a?source=rss-3a71f8173317------2)
 <!-- BLOG-POST-LIST:END -->
 
+## Check out my stats
+
+<a href="https://github.com/bherna33/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bherna33&theme=tokyonight&langs_count=7" />
+</a>
+<a href="https://github.com/bherna33/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bherna33&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
+</a>
+
+
 ## Highlighted Projects
-<div flex-direction="row" justify-content="space-evenly" align="center" >
-  <a href="https://github.com/Bherna33/flavaquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Bherna33/My-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=My-Portfolio&theme=tokyonight" />
-  </a>
-</div>
+
+<a href="https://github.com/Bherna33/flavaquest">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
+</a>
+<a href="https://github.com/Bherna33/My-Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=My-Portfolio&theme=tokyonight" />
+</a>
