@@ -6,6 +6,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
 </picture>
 
+## Ask me About
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&redirect=true">
+    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+</a>
+
 ## 🌐 Find Me Around the Web
 
 <a href="https://dev.to/branden-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="branden-hernandez" height="30" width="40" /></a>
@@ -58,9 +64,9 @@
 
 ## Highlighted Projects
 
-<a href="https://github.com/Bherna33/flavaquest">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
-</a>
 <a href="https://github.com/Bherna33/My-Portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=My-Portfolio&theme=tokyonight" />
+</a>
+<a href="https://github.com/Bherna33/flavaquest">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
 </a>
