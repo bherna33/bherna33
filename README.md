@@ -49,10 +49,10 @@
 ## Check out my stats
 
 <a href="https://github.com/bherna33/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bherna33&theme=tokyonight&langs_count=7" />
+    <img height=325 align="center" src="https://github-readme-stats.vercel.app/api?username=bherna33&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
 </a>
 <a href="https://github.com/bherna33/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bherna33&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bherna33&theme=tokyonight&langs_count=6" />
 </a>
 
 
