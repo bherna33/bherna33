@@ -1,14 +1,14 @@
-name: Latest blog post workflow
+name: Latest Medium blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '30 11 * * Mon' # Runs every monday at 11:30am
+    - cron: '30 11 * * Tue' # Runs every Tuesday at 11:30am
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest Medium blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,5 +16,6 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@branden-hernandez, https://dev.to/feed/branden-hernandez"
+          comment_tag_name: "MEDIUM"
+          feed_list: "https://medium.com/feed/@branden-hernandez"
           max_post_count: 3
