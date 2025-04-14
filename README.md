@@ -54,6 +54,8 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [The Coding Coach: How Mentoring Young Developers Changed Me](https://dev.to/branden-hernandez/the-coding-coach-how-mentoring-young-developers-changed-me-66p)
+- [My Journey as a Developer: The Wins, The Struggles, and Everything in Between](https://dev.to/branden-hernandez/my-journey-as-a-developer-the-wins-the-struggles-and-everything-in-between-3k15)
 <!-- DEVTO:END -->
 
 ## Check out my stats
