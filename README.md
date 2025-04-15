@@ -47,8 +47,8 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [What I Wish I Knew Before Becoming a Site Reliability Engineer](https://medium.com/@branden-hernandez/what-i-wish-i-knew-before-becoming-a-site-reliability-engineer-86137eb93eb0?source=rss-3a71f8173317------2)
 - [Building FlavaQuest — Month 1: The Quest for Flava!](https://medium.com/@branden-hernandez/building-flavaquest-month-1-the-quest-for-flava-7aab9a0768d6?source=rss-3a71f8173317------2)
-- [My Journey as a Developer: The Wins, The Struggles, and Everything in Between](https://dev.to/branden-hernandez/my-journey-as-a-developer-the-wins-the-struggles-and-everything-in-between-3k15)
 - [Finding Worth Outside of Work as a Developer: Why I’m Writing, Building, and Learning](https://medium.com/@branden-hernandez/finding-worth-outside-of-work-as-a-developer-why-im-writing-building-and-learning-40256d264cc5?source=rss-3a71f8173317------2)
 <!-- MEDIUM:END -->
 
