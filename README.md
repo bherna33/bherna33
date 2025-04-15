@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my profile</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile;Welcome+to+my+playground;print(%22Welcome!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22);Let's+build+something+awesome" alt="Typing SVG" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph-dark.svg">
