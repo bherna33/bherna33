@@ -10,6 +10,8 @@
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
 
+![Chess Card](https://chess-stats-card.vercel.app/api/card?username=dual-shock514)
+
 ## 🌐 Find Me Around the Web
 
 <a href="https://dev.to/branden-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="branden-hernandez" height="30" width="40" /></a>
@@ -65,6 +67,12 @@
 </a>
 <a href="https://github.com/bherna33/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bherna33&theme=tokyonight&langs_count=6" />
+</a>
+
+<br>
+
+<a href="https://git.io/streak-stats">
+    <img align="center"src="https://streak-stats.demolab.com/?user=bherna33)"/>
 </a>
 
 
