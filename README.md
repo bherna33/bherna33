@@ -11,7 +11,7 @@
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
 
-![Chess Card](https://chess-stats-card.vercel.app/api/card?username=dual-shock514)
+![Chess Card](https://chess-stats-card.vercel.app/api/card?user=dual-shock514)
 
 
 ## 🌐 Find Me Around the Web
