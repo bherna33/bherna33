@@ -83,9 +83,11 @@
 
 ## Highlighted Projects
 
-<a href="https://github.com/Bherna33/chess-stats-card">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=chess-stats-card&theme=tokyonight" />
-</a>
-<a href="https://github.com/Bherna33/flavaquest">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
-</a>
+<div align="center">
+    <a href="https://github.com/Bherna33/chess-stats-card">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=chess-stats-card&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Bherna33/flavaquest">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bherna33&repo=flavaquest&theme=tokyonight" />
+    </a>
+</div>
