@@ -7,12 +7,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bherna33/bherna33/output/pacman-contribution-graph.svg">
 </picture>
 
-## Ask me About
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
-
-![Chess Card](https://chess-stats-card.vercel.app/api/card?user=dual-shock514&theme=tokyonight)
-
 
 ## 🌐 Find Me Around the Web
 
@@ -47,6 +41,13 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
 
 
+## Ask me About
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
+
+![Chess Card](https://chess-stats-card.vercel.app/api/card?user=dual-shock514&theme=tokyonight)
+
+
 ## Check Out My Latest Blog Posts
 
 ### Medium
@@ -65,13 +66,15 @@
 
 ## Check out my stats
 
-<a href="https://github.com/bherna33/github-readme-stats">
-    <img height=325 align="center" src="https://github-readme-stats.vercel.app/api?username=bherna33&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
-</a>
-<a href="https://github.com/bherna33/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bherna33&theme=tokyonight&langs_count=6" />
-</a>
-
+<div align="center">
+    <a href="https://github.com/bherna33/github-readme-stats">
+        <img height=325 align="center" src="https://github-readme-stats.vercel.app/api?username=bherna33&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/bherna33/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bherna33&theme=tokyonight&langs_count=6" />
+    </a>
+</div>
+<br>
 <div align="center">
 <a align="center" href="https://git.io/streak-stats">
     <img align="center"src="https://streak-stats.demolab.com/?user=bherna33)"/>
