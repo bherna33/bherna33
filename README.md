@@ -77,7 +77,7 @@
 <br>
 <div align="center">
 <a align="center" href="https://git.io/streak-stats">
-    <img align="center"src="https://streak-stats.demolab.com/?user=bherna33)"/>
+    <img align="center"src="https://streak-stats.demolab.com/?user=bherna33)&theme=tokyonight"/>
 </a>
 </div>
 
