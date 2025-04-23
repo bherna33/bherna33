@@ -76,10 +76,14 @@
 </div>
 <br>
 <div align="center">
-<a align="center" href="https://git.io/streak-stats">
-    <img align="center"src="https://streak-stats.demolab.com/?user=bherna33)&theme=tokyonight"/>
-</a>
+    <a align="center" href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=bherna33)&theme=tokyonight"/>
+    </a>
+    <a align="center" href="https://leetcode.com/Bherna33">
+        <img align="center" src="https://leetcard.jacoblin.cool/Bherna33?theme=dark" />
+    </a>
 </div>
+
 
 ## 🔥 Highlighted Projects
 <div align="center">
