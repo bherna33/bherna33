@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [Finding Worth Outside of Work as a Developer: Why I’m Writing, Building, and Learning](https://dev.to/branden-hernandez/finding-worth-outside-of-work-as-a-developer-why-im-writing-building-and-learning-11od)
 - [Why Everyone Wants to Sell You a Shovel in the Digital Gold Rush](https://dev.to/branden-hernandez/why-everyone-wants-to-sell-you-a-shovel-in-the-digital-gold-rush-41db)
 - [The Coding Coach: How Mentoring Young Developers Changed Me](https://dev.to/branden-hernandez/the-coding-coach-how-mentoring-young-developers-changed-me-66p)
-- [My Journey as a Developer: The Wins, The Struggles, and Everything in Between](https://dev.to/branden-hernandez/my-journey-as-a-developer-the-wins-the-struggles-and-everything-in-between-3k15)
 <!-- DEVTO:END -->
 
 ## 📊 Check out my stats
