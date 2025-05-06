@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [Building FlavaQuest - Month 1: The Quest for Flava!](https://dev.to/branden-hernandez/building-flavaquest-month-1-the-quest-for-flava-2a1k)
 - [Finding Worth Outside of Work as a Developer: Why I’m Writing, Building, and Learning](https://dev.to/branden-hernandez/finding-worth-outside-of-work-as-a-developer-why-im-writing-building-and-learning-11od)
 - [Why Everyone Wants to Sell You a Shovel in the Digital Gold Rush](https://dev.to/branden-hernandez/why-everyone-wants-to-sell-you-a-shovel-in-the-digital-gold-rush-41db)
-- [The Coding Coach: How Mentoring Young Developers Changed Me](https://dev.to/branden-hernandez/the-coding-coach-how-mentoring-young-developers-changed-me-66p)
 <!-- DEVTO:END -->
 
 ## 📊 Check out my stats
