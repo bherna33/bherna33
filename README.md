@@ -58,9 +58,9 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [Why I Updated My GitHub README](https://medium.com/@branden-hernandez/why-i-updated-my-github-readme-c36368105219?source=rss-3a71f8173317------2)
 - [Building FlavaQuest — Month 2: Documentation](https://medium.com/@branden-hernandez/building-flavaquest-month-2-documentation-150104949667?source=rss-3a71f8173317------2)
 - [What I’ve Learned About Writing as a Developer &lpar;So Far&rpar;](https://medium.com/@branden-hernandez/what-ive-learned-about-writing-as-a-developer-so-far-79d9f7bdc23c?source=rss-3a71f8173317------2)
-- [If You’re Thinking About Leaving, It’s Probably Time](https://medium.com/@branden-hernandez/if-youre-thinking-about-leaving-it-s-probably-time-0aff71048b42?source=rss-3a71f8173317------2)
 <!-- MEDIUM:END -->
 
 ### Dev.to
