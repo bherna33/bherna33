@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [What I Wish I Knew Before Becoming a Site Reliability Engineer](https://dev.to/branden-hernandez/what-i-wish-i-knew-before-becoming-a-site-reliability-engineer-5916)
 - [Building FlavaQuest - Month 1: The Quest for Flava!](https://dev.to/branden-hernandez/building-flavaquest-month-1-the-quest-for-flava-2a1k)
 - [Finding Worth Outside of Work as a Developer: Why I’m Writing, Building, and Learning](https://dev.to/branden-hernandez/finding-worth-outside-of-work-as-a-developer-why-im-writing-building-and-learning-11od)
-- [Why Everyone Wants to Sell You a Shovel in the Digital Gold Rush](https://dev.to/branden-hernandez/why-everyone-wants-to-sell-you-a-shovel-in-the-digital-gold-rush-41db)
 <!-- DEVTO:END -->
 
 ## 📊 Check out my stats
