@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [If You&#39;re Thinking About Leaving, It&#39;s Probably Time](https://dev.to/branden-hernandez/if-youre-thinking-about-leaving-its-probably-time-136b)
 - [What I Wish I Knew Before Becoming a Site Reliability Engineer](https://dev.to/branden-hernandez/what-i-wish-i-knew-before-becoming-a-site-reliability-engineer-5916)
 - [Building FlavaQuest - Month 1: The Quest for Flava!](https://dev.to/branden-hernandez/building-flavaquest-month-1-the-quest-for-flava-2a1k)
-- [Finding Worth Outside of Work as a Developer: Why I’m Writing, Building, and Learning](https://dev.to/branden-hernandez/finding-worth-outside-of-work-as-a-developer-why-im-writing-building-and-learning-11od)
 <!-- DEVTO:END -->
 
 ## 📊 Check out my stats
