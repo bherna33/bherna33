@@ -58,9 +58,9 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [From Rejection to Redemption: How I Landed My SRE Role](https://medium.com/@branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-5723751d16eb?source=rss-3a71f8173317------2)
 - [Vibe Coding Isn’t Magic — But It Made Me a Better Developer](https://medium.com/@branden-hernandez/vibe-coding-isnt-magic-but-it-made-me-a-better-developer-b1984171fde9?source=rss-3a71f8173317------2)
 - [Why I Updated My GitHub README](https://medium.com/@branden-hernandez/why-i-updated-my-github-readme-c36368105219?source=rss-3a71f8173317------2)
-- [Building FlavaQuest — Month 2: Documentation](https://medium.com/@branden-hernandez/building-flavaquest-month-2-documentation-150104949667?source=rss-3a71f8173317------2)
 <!-- MEDIUM:END -->
 
 ### Dev.to
