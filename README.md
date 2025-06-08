@@ -8,7 +8,7 @@
 </picture>
 
 
-## 🌐 Find Me Around the Web
+## 🌐 Find Me Around The Web
 
 <a href="https://dev.to/branden-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="branden-hernandez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/branden-hernandez-688365165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="branden-hernandez-688365165" height="30" width="40" /></a>
@@ -41,7 +41,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
 
 
-## 🤔 Ask me About
+## 🤔 Ask Me About
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandenjh98&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/></a>
 
@@ -70,7 +70,7 @@
 - [If You&#39;re Thinking About Leaving, It&#39;s Probably Time](https://dev.to/branden-hernandez/if-youre-thinking-about-leaving-its-probably-time-136b)
 <!-- DEVTO:END -->
 
-## 📊 Check out my stats
+## 📊 Check Out My Stats
 
 <div align="center">
     <a href="https://github.com/bherna33/github-readme-stats">
