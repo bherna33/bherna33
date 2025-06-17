@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [Vibe Coding Isn&#39;t Magic - But It Made Me a Better Developer](https://dev.to/branden-hernandez/vibe-coding-isnt-magic-but-it-made-me-a-better-developer-4lg6)
 - [Why I Updated My GitHub README](https://dev.to/branden-hernandez/why-i-updated-my-github-readme-1cag)
 - [Building FlavaQuest – Month 2: Documentation](https://dev.to/branden-hernandez/building-flavaquest-month-2-documentation-2d46)
-- [What I’ve Learned About Writing as a Developer &lpar;So Far&rpar;](https://dev.to/branden-hernandez/what-ive-learned-about-writing-as-a-developer-so-far-12c3)
 <!-- DEVTO:END -->
 
 ## 📊 Check Out My Stats
