@@ -58,9 +58,9 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [I Thought Networking Was Useless. I Was Wrong](https://medium.com/@branden-hernandez/i-thought-networking-was-useless-i-was-wrong-530598053bb5?source=rss-3a71f8173317------2)
 - [Paid to Wait, Pressured to Deliver: My First Coding Job](https://medium.com/@branden-hernandez/paid-to-wait-pressured-to-deliver-my-first-coding-job-a63437fdd193?source=rss-3a71f8173317------2)
 - [Too Many Handshakes: A Tale of Corporate Chaos](https://medium.com/@branden-hernandez/too-many-handshakes-a-tale-of-corporate-chaos-ab1c336fa01c?source=rss-3a71f8173317------2)
-- [FlavaQuest — Month 3: Losing Motivation](https://medium.com/@branden-hernandez/flavaquest-month-3-losing-motivation-2e86ec44a9d3?source=rss-3a71f8173317------2)
 <!-- MEDIUM:END -->
 
 ### Dev.to
