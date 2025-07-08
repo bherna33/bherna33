@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [FlavaQuest - Month 3: Losing Motivation](https://dev.to/branden-hernandez/flavaquest-month-3-losing-motivation-1hbn)
 - [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
 - [Vibe Coding Isn&#39;t Magic - But It Made Me a Better Developer](https://dev.to/branden-hernandez/vibe-coding-isnt-magic-but-it-made-me-a-better-developer-4lg6)
-- [Why I Updated My GitHub README](https://dev.to/branden-hernandez/why-i-updated-my-github-readme-1cag)
 <!-- DEVTO:END -->
 
 ## 📊 Check Out My Stats
