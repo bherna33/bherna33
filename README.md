@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [Paid to Wait, Pressured to Deliver: My First Coding Job](https://dev.to/branden-hernandez/paid-to-wait-pressured-to-deliver-my-first-coding-job-5f6o)
 - [Too Many Handshakes: A Tale of Corporate Chaos](https://dev.to/branden-hernandez/too-many-handshakes-a-tale-of-corporate-chaos-3n93)
 - [FlavaQuest - Month 3: Losing Motivation](https://dev.to/branden-hernandez/flavaquest-month-3-losing-motivation-1hbn)
-- [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
 <!-- DEVTO:END -->
 
 ## 📊 Check Out My Stats
