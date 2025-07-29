@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [I Thought Networking Was Useless. I Was Wrong](https://dev.to/branden-hernandez/i-thought-networking-was-useless-i-was-wrong-512o)
 - [Paid to Wait, Pressured to Deliver: My First Coding Job](https://dev.to/branden-hernandez/paid-to-wait-pressured-to-deliver-my-first-coding-job-5f6o)
 - [Too Many Handshakes: A Tale of Corporate Chaos](https://dev.to/branden-hernandez/too-many-handshakes-a-tale-of-corporate-chaos-3n93)
-- [FlavaQuest - Month 3: Losing Motivation](https://dev.to/branden-hernandez/flavaquest-month-3-losing-motivation-1hbn)
 <!-- DEVTO:END -->
 
 ## 📊 Check Out My Stats
