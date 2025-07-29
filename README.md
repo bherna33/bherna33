@@ -58,9 +58,9 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [I Challenged Myself To Use The Hardest Editor](https://medium.com/@branden-hernandez/i-challenged-myself-to-use-the-hardest-editor-56c1196544b2?source=rss-3a71f8173317------2)
 - [I Tried NixOS for a Week So You Don’t Have To](https://medium.com/@branden-hernandez/i-tried-nixos-for-a-week-so-you-dont-have-to-45902edf6852?source=rss-3a71f8173317------2)
 - [I Thought Networking Was Useless. I Was Wrong](https://medium.com/@branden-hernandez/i-thought-networking-was-useless-i-was-wrong-530598053bb5?source=rss-3a71f8173317------2)
-- [Paid to Wait, Pressured to Deliver: My First Coding Job](https://medium.com/@branden-hernandez/paid-to-wait-pressured-to-deliver-my-first-coding-job-a63437fdd193?source=rss-3a71f8173317------2)
 <!-- MEDIUM:END -->
 
 ### Dev.to
