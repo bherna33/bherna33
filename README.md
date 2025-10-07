@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [Boosting Dev Productivity with Multi-Threading](https://dev.to/branden-hernandez/boosting-dev-productivity-with-multi-threading-ceh)
 - [I Challenged Myself To Use The Hardest Editor](https://dev.to/branden-hernandez/i-challenged-myself-to-use-the-hardest-editor-239h)
 - [I Tried NixOS for a Week So You Don&#39;t Have To](https://dev.to/branden-hernandez/i-tried-nixos-for-a-week-so-you-dont-have-to-10gm)
-- [I Thought Networking Was Useless. I Was Wrong](https://dev.to/branden-hernandez/i-thought-networking-was-useless-i-was-wrong-512o)
 <!-- DEVTO:END -->
 
 ## 📊 Check Out My Stats
