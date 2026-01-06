@@ -58,9 +58,9 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [Why This Year Will Be Different](https://medium.com/@branden-hernandez/why-this-year-will-be-different-2c435aaa3ff9?source=rss-3a71f8173317------2)
 - [The Power of Shared Definitions](https://medium.com/@branden-hernandez/the-power-of-shared-definitions-bf7a7886d976?source=rss-3a71f8173317------2)
 - [Boosting Dev Productivity with Multi-Threading](https://medium.com/@branden-hernandez/boosting-dev-productivity-with-multi-threading-9b3d666e104a?source=rss-3a71f8173317------2)
-- [I Challenged Myself To Use The Hardest Editor](https://medium.com/@branden-hernandez/i-challenged-myself-to-use-the-hardest-editor-56c1196544b2?source=rss-3a71f8173317------2)
 <!-- MEDIUM:END -->
 
 ### Dev.to
