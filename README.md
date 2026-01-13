@@ -65,9 +65,9 @@
 
 ### Dev.to
 <!-- DEVTO:START -->
+- [A Place To Store Projects](https://dev.to/branden-hernandez/a-place-to-store-projects-2im5)
+- [Why This Year Will Be Different](https://dev.to/branden-hernandez/why-this-year-will-be-different-35dc)
 - [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
-- [Boosting Dev Productivity with Multi-Threading](https://dev.to/branden-hernandez/boosting-dev-productivity-with-multi-threading-ceh)
-- [I Challenged Myself To Use The Hardest Editor](https://dev.to/branden-hernandez/i-challenged-myself-to-use-the-hardest-editor-239h)
 <!-- DEVTO:END -->
 
 ## 📊 Check Out My Stats
